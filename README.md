@@ -12,25 +12,20 @@ It includes customer demographics, order details, product information, payment m
 - **Payment & Fulfillment** : Payment Method, Payment Status, Shipping Charges, Total Order Value
 - **Geography** : State, City, Pin Code
 
-#3 Problem Statements
+## Problem Statements
 
-**1. Sales Performance Analysis**:
+**Sales Performance Analysis**:
+- How can Dmart identify top-performing products, categories, and states to optimize inventory and marketing?
 
-How can Dmart identify top-performing products, categories, and states to optimize inventory and marketing?
+**Customer Behavior & Retention**:
+- What are the shopping patterns by age, gender, and subscription type, and how can Dmart improve customer loyalty?
 
-**2. Customer Behavior & Retention**:
+**Operational Efficiency**:
+- What is the delivery performance across ship modes and regions?
+- Are there patterns in order cancellations or delayed deliveries?
 
-What are the shopping patterns by age, gender, and subscription type, and how can Dmart improve customer loyalty?
+**Marketing Effectiveness**:
+- Which advertisement or marketing channels drive the highest engagement and conversions?
 
-**3. Operational Efficiency**:
-
-What is the delivery performance across ship modes and regions?
-Are there patterns in order cancellations or delayed deliveries?
-
-**4. Marketing Effectiveness**:
-
-Which advertisement or marketing channels drive the highest engagement and conversions?
-
-**5 .Revenue Optimization**:
-
-How can pricing strategies (discounts vs MRP) and shipping charges influence total order value?
+**Revenue Optimization**:
+- How can pricing strategies (discounts vs MRP) and shipping charges influence total order value?
