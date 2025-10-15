@@ -14,23 +14,23 @@ It includes customer demographics, order details, product information, payment m
 
 #3 Problem Statements
 
-**1.Sales Performance Analysis**:
+**1. Sales Performance Analysis**:
 
 How can Dmart identify top-performing products, categories, and states to optimize inventory and marketing?
 
-**2.Customer Behavior & Retention**:
+**2. Customer Behavior & Retention**:
 
 What are the shopping patterns by age, gender, and subscription type, and how can Dmart improve customer loyalty?
 
-**3.Operational Efficiency**:
+**3. Operational Efficiency**:
 
 What is the delivery performance across ship modes and regions?
 Are there patterns in order cancellations or delayed deliveries?
 
-**4.Marketing Effectiveness**:
+**4. Marketing Effectiveness**:
 
 Which advertisement or marketing channels drive the highest engagement and conversions?
 
-**5.Revenue Optimization**:
+**5 .Revenue Optimization**:
 
 How can pricing strategies (discounts vs MRP) and shipping charges influence total order value?
