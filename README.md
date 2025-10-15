@@ -13,5 +13,12 @@ It provides an excellent foundation to analyze sales, customer behavior, marketi
 - **Geography** : State, City, Pin Code
 
 ## Problem Statements
-|No.|Problem Statement|Purpose|
-|---|-----------------|-------|
+| No. | Problem Statement | Purpose |
+|-----|-------------------|---------|
+|1|What are the top-performing states, cities, and categories in terms of sales and order volume?|Identify regional sales strengths|
+|2|How do discounts and MRP affect total order value and profit margin?|Optimize pricing strategy|
+|3|What customer demographics (age, gender, subscription) contribute most to sales?|Define target customer profiles|
+|4|Does marketing/advertisement strategy or time spent on website influence higher sales and ratings?|Measure marketing ROI|
+|5|What is the delivery performance and how does it impact order cancellation?|Improve logistics and operations|
+|6|Which payment methods are most popular and reliable?|Improve checkout experience|
+|7|What is the trend of sales and ratings over time (Month/Year)?|Forecast sales and demand|
