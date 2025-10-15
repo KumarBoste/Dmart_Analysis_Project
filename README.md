@@ -1,8 +1,8 @@
 # PowerBi_Dmart_Analysis_Project
 
 ## 🧾 Overview of Dataset
-The dataset represents retail transactions from Dmart’s e-commerce and in-store operations.
-It includes customer demographics, order details, product information, payment modes, delivery performance, and marketing channels.
+This dataset contains 25,000 Dmart retail transactions, including customer details, product information, order details, pricing, marketing data, and delivery timelines.
+It provides an excellent foundation to analyze sales, customer behavior, marketing effectiveness, and operational efficiency.
 
 ## Key Data Categories:
 - **Customer Details** : Customer ID, Age, Gender, Subscription, Time Spent on Website, Rating
