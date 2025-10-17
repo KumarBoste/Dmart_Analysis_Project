@@ -1,4 +1,4 @@
-# PowerBi_Dmart_Analysis_Project
+# Dmart_Analysis_Project using PowerBI
 ![Dmart Logo](https://github.com/KumarBoste/PowerBi_Dmart_Analysis_Project/blob/main/Dmart%20Logo.png)
 ## 🧾 Overview of Dataset
 This dataset contains 25,000 Dmart retail transactions, including customer details, product information, order details, pricing, marketing data, and delivery timelines.
