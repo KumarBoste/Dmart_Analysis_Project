@@ -15,6 +15,9 @@ D*Mart, a leading retail chain, faces challenges in gaining comprehensive insigh
 
 This dashboard aims to solve these challenges by providing an integrated view of sales data, enabling strategic decision-making and performance optimization.
 
+## Dashboard
+![dmart](https://github.com/KumarBoste/Dmart_Analysis_Project/blob/main/PowerBi_Dashboard/Dmart%20Dashboard.png)
+
 ## Dataset :
 The analysis is based on D*Mart's sales data containing:
 - Total Sales: $16.95M
