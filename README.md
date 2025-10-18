@@ -1,16 +1,25 @@
 # Dmart_Analysis_Project using PowerBI
 ![Dmart Logo](https://github.com/KumarBoste/PowerBi_Dmart_Analysis_Project/blob/main/Dmart%20Logo.png)
 ## Overview 
-This dataset contains 25,000 Dmart retail transactions, including customer details, product information, order details, pricing, marketing data, and delivery timelines.
-It provides an excellent foundation to analyze sales, customer behavior, marketing effectiveness, and operational efficiency.
+This project presents an interactive sales analysis dashboard for D*Mart, providing comprehensive insights into sales performance, order patterns, and customer behavior across different dimensions including time, geography, and product categories.
 
-## Key Data Categories:
-- **Customer Details** : Customer ID, Age, Gender, Subscription, Time Spent on Website, Rating
-- **Product Details** : Product ID, Product Name, Category, MRP, Discount Price
-- **Order Details** : Order ID, Order Date, Delivery Date, Ship Mode, Order Status
-- **Marketing & Engagement** : Marketing/Advertisement channel, No. of Clicks, Time Spent on Website
-- **Payment & Fulfillment** : Payment Method, Payment Status, Shipping Charges, Total Order Value
-- **Geography** : State, City, Pin Code
+## Problem Statement
+D*Mart, a leading retail chain, faces challenges in gaining comprehensive insights into its sales performance and customer behavior across multiple dimensions. The absence of a unified analytical framework makes it difficult to:
+- Track and analyze monthly sales trends and seasonal patterns
+- Understand regional performance variations across different states
+- Identify top-performing product categories and their contribution to overall revenue
+- Monitor payment method preferences and their impact on order status
+- Calculate key performance indicators like Average Order Value and Return Rate
+- Make data-driven decisions for inventory management and regional expansion
+This dashboard aims to solve these challenges by providing an integrated view of sales data, enabling strategic decision-making and performance optimization.
+## Dataset :
+The analysis is based on D*Mart's sales data containing:
+- Total Sales: $16.95M
+- Number of Orders: 25,000
+- Time Period: January to December (Full year)
+- Geographic Coverage: Multiple states across India
+- Product Categories: Multiple retail categories
+- Payment Methods: Debit Card, Credit Card, UPI, Netbanking, COD
 
 ## Problem Statements
 | No. | Problem Statement | Purpose |
