@@ -11,6 +11,8 @@ D*Mart, a leading retail chain, faces challenges in gaining comprehensive insigh
 - Monitor payment method preferences and their impact on order status
 - Calculate key performance indicators like Average Order Value and Return Rate
 - Make data-driven decisions for inventory management and regional expansion
+
+
 This dashboard aims to solve these challenges by providing an integrated view of sales data, enabling strategic decision-making and performance optimization.
 ## Dataset :
 The analysis is based on D*Mart's sales data containing:
