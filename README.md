@@ -4,7 +4,7 @@
 This project presents an interactive sales analysis dashboard for D*Mart, providing comprehensive insights into sales performance, order patterns, and customer behavior across different dimensions including time, geography, and product categories.
 
 ## Problem Statement
-D*Mart, a leading retail chain, faces challenges in gaining comprehensive insights into its sales performance and customer behavior across multiple dimensions. The absence of a unified analytical framework makes it difficult to:
+D-Mart, a leading retail chain, faces challenges in gaining comprehensive insights into its sales performance and customer behavior across multiple dimensions. The absence of a unified analytical framework makes it difficult to:
 - Track and analyze monthly sales trends and seasonal patterns
 - Understand regional performance variations across different states
 - Identify top-performing product categories and their contribution to overall revenue
